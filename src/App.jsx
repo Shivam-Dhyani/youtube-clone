@@ -9,7 +9,6 @@ export default function App() {
   return (
     <AppContext>
       <BrowserRouter>
-        <div className="h-full flex flex-col"></div>
         <Header />
         <Routes>
           <Route path="/" element={<Feed />} />
