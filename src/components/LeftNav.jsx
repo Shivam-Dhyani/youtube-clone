@@ -1,5 +1,5 @@
 import React from "react";
-import { categories } from "../utils/constants";
+import { categories } from "../utils/Constants";
 import LeftNavMenuItem from "./LeftNavMenuItem";
 
 const LeftNav = () => {
