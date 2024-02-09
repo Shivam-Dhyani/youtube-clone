@@ -1,4 +1,4 @@
-import YouTubeLogo from "../images/yt-logo.png";
+import YouTubeLogo from "../assets/images/yt-logo.png";
 
 import { SlMenu } from "react-icons/sl";
 import { IoIosSearch } from "react-icons/io";
